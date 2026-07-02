@@ -12,8 +12,8 @@ home SOC lab, real tools, real detections, live threat data.
 ### lab pipeline
 
 ```
-NextDNS  ──▶  Azure Log Analytics  ──▶  Splunk Cloud
-  DNS telemetry      cloud ingestion       detection + alerting
+NextDNS  ──▶  AWS EC2  ──▶  Splunk Cloud
+  DNS telemetry   honeypot + logs   detection + alerting
 ```
 
 ### artifacts &nbsp;→&nbsp; [blue-team.kontor.studio](https://blue-team.kontor.studio)
@@ -30,7 +30,7 @@ NextDNS  ──▶  Azure Log Analytics  ──▶  Splunk Cloud
 
 ### stack
 
-`Splunk Cloud` &nbsp;·&nbsp; `Azure Log Analytics` &nbsp;·&nbsp; `NextDNS` &nbsp;·&nbsp; `Sigma` &nbsp;·&nbsp; `SPL` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `MITRE ATT&CK`
+`Splunk Cloud` &nbsp;·&nbsp; `AWS EC2` &nbsp;·&nbsp; `NextDNS` &nbsp;·&nbsp; `Sigma` &nbsp;·&nbsp; `SPL` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `MITRE ATT&CK`
 
 ---
 
