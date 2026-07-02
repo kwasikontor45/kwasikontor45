@@ -1,3 +1,5 @@
+<a href="https://kontor.studio"><img src="https://kontor.studio/butterfly-dna.gif" alt="kontor.studio" width="120" /></a>
+
 # kwasi m. kontor
 
 ```
@@ -12,7 +14,7 @@ home SOC lab, real tools, real detections, live threat data.
 ### lab pipeline
 
 ```
-NextDNS  ──▶  AWS-EC2 (...microsoft-azure-cloud as optional backup)  ──▶  Splunk Cloud
+NextDNS  ──▶  AWS EC2  ──▶  Splunk Cloud
   DNS telemetry   honeypot + logs   detection + alerting
 ```
 
