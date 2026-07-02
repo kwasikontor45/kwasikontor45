@@ -1,4 +1,4 @@
-<a href="https://kontor.studio"><img src="https://kontor.studio/butterfly-sm.gif" alt="kontor.studio" width="120" /></a>
+<div align="center"><a href="https://kontor.studio"><img src="./butterfly-sm.gif" width="120" /></a></div>
 
 # kwasi m. kontor
 
