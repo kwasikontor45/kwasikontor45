@@ -1,4 +1,4 @@
-<div align="center"><a href="https://kwasikontor.dev"><img src="./butterfly-sm.png" width="120" /></a></div>
+<div align="center"><a href="https://kwasikontor.dev" target="_blank" rel="noopener"><img src="./butterfly-sm.svg" width="120" /></a></div>
 
 # kwasi m. kontor
 
